@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CPP-Lab/Project4/V1/dotproduct.cpp
+iostream
+-
+dotproduct.hpp
+/home/CPP-Lab/Project4/V1/dotproduct.hpp
+immintrin.h
+-
+arm_neon.h
+-
+omp.h
+-
+
+/home/CPP-Lab/Project4/V1/dotproduct.hpp
+
+/home/CPP-Lab/Project4/V1/main.cpp
+iostream
+-
+random
+-
+myMatrix.hpp
+/home/CPP-Lab/Project4/V1/myMatrix.hpp
+
+/home/CPP-Lab/Project4/V1/myMatrix.hpp
+iostream
+-
+cstring
+-
+iomanip
+-
+random
+-
+utility
+-
+dotproduct.hpp
+/home/CPP-Lab/Project4/V1/dotproduct.hpp
+

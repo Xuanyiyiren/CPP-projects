@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mat_mul.dir/dotproduct.cpp.o CMakeFiles/mat_mul.dir/main.cpp.o CMakeFiles/mat_mul.dir/mat_mul.cpp.o  -o mat_mul /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 
